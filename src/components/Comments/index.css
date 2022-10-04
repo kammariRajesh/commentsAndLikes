@@ -1,0 +1,57 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-elements {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.add-btn {
+  align-self: flex-start;
+  margin-bottom: 25px;
+  background-color: #0b69ff;
+  border: none;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 10px;
+}
+.input {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 8px;
+}
+.img {
+  width: 40%;
+}
+.comments-count-container {
+  display: flex;
+}
+.comments-list {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 4px;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  border-radius: 3px;
+}
+.comment-count-prg {
+  align-self: flex-start;
+  margin: 10px;
+}
+.list-container {
+  list-style-type: none;
+  padding: 0px;
+}

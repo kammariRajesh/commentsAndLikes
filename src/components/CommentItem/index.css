@@ -1,0 +1,89 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.card1 {
+  display: flex;
+}
+.letter {
+  color: #ffffff;
+  font-weight: bold;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.card2 {
+  display: flex;
+  flex-direction: column;
+}
+.card3 {
+  display: flex;
+}
+.name {
+  color: #000000;
+  font-weight: bold;
+  margin: 15px;
+  margin-left: 0px;
+}
+.time {
+  color: #94a3b8;
+  margin-left: 15px;
+}
+.comment {
+  color: #1e293b;
+}
+.card4 {
+  display: flex;
+  justify-content: space-between;
+}
+.card5 {
+  display: flex;
+}
+.delete-img {
+  height: 20px;
+  width: 20px;
+}
+.like {
+  color: #94a3b8;
+}
+.like-img {
+  height: 20px;
+  width: 20px;
+  margin: 15px;
+}
+.like-btn {
+  border: none;
+  background-color: transparent;
+}
+.colored {
+  color: #0284c7;
+  font-weight: bold;
+}
